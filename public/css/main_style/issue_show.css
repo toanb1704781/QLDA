@@ -1,0 +1,51 @@
+.main-button{
+}
+
+.main-button .btn-editIssue{
+    background-color: rgb(230 230 230);
+}
+
+.main-button form{
+    width: 150px;
+    margin-top: 20px;
+}
+
+/* Issue details */
+.issue-details{
+    margin-top: 30px;
+}
+
+.issue-details table{
+    min-width: 100%;
+}
+
+.issue-details table td{
+    
+}
+
+.issue-desc{
+    text-align: justify;
+}
+
+/* Comment */
+.input-comment{
+}
+
+.show-comment p{
+    width: 100px;
+    text-align: justify;
+}
+
+.show-comment-btn a{
+    text-decoration: none;
+    color: rgb(107 119 140);
+    font-size: 14px;
+}
+
+.rep-comment{
+   margin-left: 40px;
+}
+
+.rep-comment button{
+    margin: 5px;
+}
